@@ -47,3 +47,41 @@ else if (friend == "Connor")
     myName = "Percy";
 }
 Console.WriteLine(myName);
+
+//Exercise 1
+
+Console.WriteLine("Please enter some text");
+string someText = Console.ReadLine();
+Console.WriteLine(someText);
+
+//Exercise 2
+
+Console.WriteLine("Enter a number");
+int userNum = int.Parse(Console.ReadLine());
+userNum += 1;
+Console.WriteLine(userNum);
+
+//Exercise 3
+
+Console.WriteLine("Enter a number");
+double x3Num = double.Parse(Console.ReadLine());
+x3Num += .5;
+Console.WriteLine(x3Num);
+
+//Exercise 4
+
+Console.WriteLine("Enter number 1");
+double x4Num1 = double.Parse(Console.ReadLine());
+Console.WriteLine("Enter number 2");
+double x4Num2 = double.Parse(Console.ReadLine());
+double x4Sum = x4Num1+ x4Num2;
+Console.WriteLine("The sum is " +x4Sum);
+
+//Exercise 5
+
+Console.WriteLine("Enter the first number");
+double x5Num1 = double.Parse(Console.ReadLine());
+Console.WriteLine("Enter the second number");
+double x5Num2 = double.Parse(Console.ReadLine());
+double x5Product = x5Num1 * x5Num2;
+Console.WriteLine("The product is " + x5Product);
