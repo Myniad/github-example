@@ -1,0 +1,15 @@
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.csproj.AssemblyReference.cache
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.AssemblyInfoInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.AssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\bin\Debug\net6.0\Day 1 Lecture.exe
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\bin\Debug\net6.0\Day 1 Lecture.deps.json
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\bin\Debug\net6.0\Day 1 Lecture.runtimeconfig.json
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\bin\Debug\net6.0\Day 1 Lecture.dll
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\bin\Debug\net6.0\Day 1 Lecture.pdb
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.dll
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\refint\Day 1 Lecture.dll
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.pdb
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\Day 1 Lecture.genruntimeconfig.cache
+C:\Users\Percy\Desktop\Deliverables\Day 1 Lecture\obj\Debug\net6.0\ref\Day 1 Lecture.dll
