@@ -40,7 +40,7 @@ string friend = "Connor";
 
 if (friend == "Family")
 {
-    myName = "Jun";
+    myName = "Jun Kim";
 }
 else if (friend == "Connor")
 {
